@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1719911824 source:d:\c++\bank\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<unistd.h>
+
